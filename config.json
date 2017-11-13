@@ -1,6 +1,7 @@
 {
     "name": "Zuckerman Sensation Seeking Scale Survey",
     "exp_id": "sensation-seeking-survey",
+    "url": "https://github.com/expfactory-experiments/sensation-seeking-survey",
     "template":"survey",
     "cognitive_atlas_task_id": "trm_56abebfe9aaa3",
     "contributors": [
