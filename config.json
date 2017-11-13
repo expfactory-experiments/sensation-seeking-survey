@@ -1,0 +1,19 @@
+{
+    "name": "Zuckerman Sensation Seeking Scale Survey",
+    "exp_id": "sensation-seeking-survey",
+    "template":"survey",
+    "cognitive_atlas_task_id": "trm_56abebfe9aaa3",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://psycnet.apa.org/journals/ccp/46/1/139.pdf",
+                 "scoring: http://wsm.wsu.edu/s/we.php?id=200"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
+
