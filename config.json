@@ -1,5 +1,5 @@
 {
-    "name": "Zuckerman Sensation Seeking Scale Survey",
+    "name": "Zuckerman Sensation Seeking Scale Survey Vb",
     "exp_id": "sensation-seeking-survey",
     "url": "https://github.com/expfactory-experiments/sensation-seeking-survey",
     "template":"survey",
@@ -12,8 +12,8 @@
              "Russell Poldrack"
             ], 
     "time":1,
-    "reference": ["http://psycnet.apa.org/journals/ccp/46/1/139.pdf",
-                 "scoring: http://wsm.wsu.edu/s/we.php?id=200"],
+    "reference": ["http://psycnet.apa.org/journals/ccp/46/1/139.pdf", 
+                  "http://wsm.wsu.edu/s/we.php?id=200"],
     "description": "Experiment Factory survey",
     "instructions": "Please answer the following questions to the best of your ability"
 }
